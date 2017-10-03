@@ -7,5 +7,5 @@
 #Experience 
 
             1) Mapping and reducing in a cluster!
-            2) HortonWorks Sandbox
+            2) HortonWorks Hadoop Sandbox
             3) Pig Latin Dataflow language 
